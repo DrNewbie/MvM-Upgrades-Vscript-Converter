@@ -35,8 +35,8 @@ namespace MvM_Upgrade_Vscript_Converter
 	private string formatSign = "{0, -22}{1, -10}{2}";
 	private string formatPosition = "{0, -7}{1, -7}{2}";
 
-	private string urlVscript = "https://raw.githubusercontent.com/Lazyneer/MvM-Upgrades-Vscript/master/scripts/vscripts/mapspawn.nut";
-	private string urlUpgrades = "https://raw.githubusercontent.com/Lazyneer/MvM-Upgrades-Vscript/master/scripts/items/mvm_upgrades.txt";
+	private string urlVscript = "https://raw.githubusercontent.com/DrNewbie/MvM-Upgrades-Vscript/master/scripts/vscripts/mapspawn.nut";
+	private string urlUpgrades = "https://raw.githubusercontent.com/DrNewbie/MvM-Upgrades-Vscript/master/scripts/items/mvm_upgrades.txt";
 
 	private void Main_Load(object sender, EventArgs e)
 	{

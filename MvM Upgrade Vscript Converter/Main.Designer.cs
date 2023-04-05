@@ -493,7 +493,7 @@ namespace MvM_Upgrade_Vscript_Converter
 	    this.InputSuffix.Name = "InputSuffix";
 	    this.InputSuffix.Size = new System.Drawing.Size(414, 23);
 	    this.InputSuffix.TabIndex = 7;
-	    this.InputSuffix.Text = "mvm";
+	    this.InputSuffix.Text = "mvm_poato_vip_pro";
 	    // 
 	    // InputVscriptPull
 	    // 
